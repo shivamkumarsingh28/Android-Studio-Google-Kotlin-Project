@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DessertClickerFinal.iml" filepath="$PROJECT_DIR$/.idea/modules/DessertClickerFinal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DessertClickerFinal.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DessertClickerFinal.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DessertClickerFinal.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DessertClickerFinal.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DessertClickerFinal.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DessertClickerFinal.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DessertClickerFinal.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DessertClickerFinal.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
