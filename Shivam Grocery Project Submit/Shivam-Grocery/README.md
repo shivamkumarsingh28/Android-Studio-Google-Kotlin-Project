@@ -1,8 +1,9 @@
-RoomWordsSample
+Shivam Grocery App
 ================
 
 This repository contains the finished sample code for the
-[Architecture Components codelab](https://codelabs.developers.google.com/codelabs/android-room-with-a-view/index.html?index=..%2F..%2Findex#0) in Java on the master branch and in Kotlin for the [Architecture Components Kotlin codelab](https://codelabs.developers.google.com/codelabs/android-room-with-a-view-kotlin) on the [kotlin](https://github.com/googlecodelabs/android-room-with-a-view/tree/kotlin) branch.
+[App Video Playlist Here](https://www.youtube.com/playlist?list=PLF7OcypGGslLVGcApNyH4mTHwy3m_LOS6) in Java on the master branch and in Kotlin for the 
+[Google Developer Profile](https://developers.google.com/profile/u/shivamkumarsingh) on the [App Source Code](https://github.com/shivamkumarsingh28/Android-Studio-Google-Kotlin-Project) branch.
 
 Introduction
 ------------
